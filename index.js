@@ -3,7 +3,7 @@ function add(a, b){ //add a and b and return the result.
   number = a + b;
   return number;
 }
-function subtract(a, b){ //subtract a and b and return the result.
+function subtract(a, b) result.
   number = a - b;
   return number;
 }
@@ -23,11 +23,11 @@ function dec(a){
   number = a - 1;
   return number;
 }
-function makeInt(a){  integer.
+function makeInt(a){  
   number = parseInt(a, 10);
   return number;
 }
-function preserveDecimal(a){ //Parse a as a float (number with decimals) and return that number.
+function preserveDecimal(a){ 
   number = parseFloat(a, 10);
   return number;
 }
